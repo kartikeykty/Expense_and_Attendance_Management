@@ -25,7 +25,7 @@ The system provides separate modules for expense tracking, attendance calculatio
 ## 4. Project Structure
 
 ```text
-Expense_Attendance_Management/
+Expense_and_Attendance_Management/
 │
 ├── main.py
 ├── validation.py
